@@ -1,6 +1,10 @@
+
+```markdown
 # Live Grid - Collaborative Spreadsheet App
 
 A modern, real-time collaborative spreadsheet application built with Next.js 16, Firebase, and TypeScript. Experience seamless collaboration with live editing, formula evaluation, and professional UI design.
+
+🎥 **Demo Video**: [Watch here](https://drive.google.com/file/d/1_D3TOAa7_VMjzZcVQE02xXkdASICr_cH/view?usp=sharing)
 
 ![Live Grid](https://img.shields.io/badge/Live%20Grid-Collaborative%20Spreadsheet-blue?style=for-the-badge&logo=google-sheets)
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat&logo=next.js)
@@ -59,7 +63,7 @@ A modern, real-time collaborative spreadsheet application built with Next.js 16,
    ```
 
 3. **Set up Firebase (Optional but recommended)**
-   - Create a Firebase project at [https://console.firebase.google.com/](https://console.firebase.google.com/)
+   - Create a Firebase project at `https://console.firebase.google.com/` [(console.firebase.google.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fconsole.firebase.google.com%2F")
    - Enable Firestore and Authentication
    - Copy your Firebase config to `.env.local`:
    ```env
@@ -77,7 +81,7 @@ A modern, real-time collaborative spreadsheet application built with Next.js 16,
    ```
 
 5. **Open your browser**
-   - Navigate to [http://localhost:3000](http://localhost:3000)
+   - Navigate to `http://localhost:3000` [(localhost in Bing)](https://www.bing.com/search?q="http%3A%2F%2Flocalhost%3A3000%2F")
    - Start creating collaborative spreadsheets!
 
 ## 📁 Project Structure
@@ -173,7 +177,7 @@ npm start
 
 ## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`.
 
 ## 🙏 Acknowledgments
 
@@ -186,3 +190,4 @@ This project is open source and available under the [MIT License](LICENSE).
 If you find this project helpful, please give it a ⭐ on GitHub!
 
 For issues or questions, please open an issue on the [GitHub repository](https://github.com/TarlanaVikas/Live-Grid/issues).
+```
