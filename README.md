@@ -1,5 +1,4 @@
 
-```markdown
 # Live Grid - Collaborative Spreadsheet App
 
 A modern, real-time collaborative spreadsheet application built with Next.js 16, Firebase, and TypeScript. Experience seamless collaboration with live editing, formula evaluation, and professional UI design.
