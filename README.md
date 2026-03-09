@@ -1,4 +1,3 @@
-
 # Live Grid - Collaborative Spreadsheet App
 
 A modern, real-time collaborative spreadsheet application built with Next.js 16, Firebase, and TypeScript. Experience seamless collaboration with live editing, formula evaluation, and professional UI design.
@@ -7,8 +6,14 @@ A modern, real-time collaborative spreadsheet application built with Next.js 16,
 
 ![Live Grid](https://img.shields.io/badge/Live%20Grid-Collaborative%20Spreadsheet-blue?style=for-the-badge&logo=google-sheets)
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react)
 ![Firebase](https://img.shields.io/badge/Firebase-Realtime-orange?style=flat&logo=firebase)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat&logo=tailwindcss)
+![Turbopack](https://img.shields.io/badge/Turbopack-Bundler-lightgrey?style=flat&logo=webpack)
+![ESLint](https://img.shields.io/badge/ESLint-Linting-purple?style=flat&logo=eslint)
+![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=flat&logo=vercel)
+![Netlify](https://img.shields.io/badge/Deploy-Netlify-teal?style=flat&logo=netlify)
 
 ## ✨ Features
 
@@ -62,7 +67,7 @@ A modern, real-time collaborative spreadsheet application built with Next.js 16,
    ```
 
 3. **Set up Firebase (Optional but recommended)**
-   - Create a Firebase project at `https://console.firebase.google.com/` [(console.firebase.google.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fconsole.firebase.google.com%2F")
+   - Create a Firebase project at [https://console.firebase.google.com/](https://console.firebase.google.com/)
    - Enable Firestore and Authentication
    - Copy your Firebase config to `.env.local`:
    ```env
@@ -80,7 +85,7 @@ A modern, real-time collaborative spreadsheet application built with Next.js 16,
    ```
 
 5. **Open your browser**
-   - Navigate to `http://localhost:3000` [(localhost in Bing)](https://www.bing.com/search?q="http%3A%2F%2Flocalhost%3A3000%2F")
+   - Navigate to [http://localhost:3000](http://localhost:3000)
    - Start creating collaborative spreadsheets!
 
 ## 📁 Project Structure
@@ -190,3 +195,4 @@ If you find this project helpful, please give it a ⭐ on GitHub!
 
 For issues or questions, please open an issue on the [GitHub repository](https://github.com/TarlanaVikas/Live-Grid/issues).
 ```
+
